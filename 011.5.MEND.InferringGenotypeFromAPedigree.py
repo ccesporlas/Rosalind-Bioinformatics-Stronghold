@@ -1,7 +1,6 @@
 import numpy
 from Bio import Phylo
 from cStringIO import StringIO
-import itertools
 
 def genotypeProbability(genotype):
     #   AA Aa aa (genotypes)
